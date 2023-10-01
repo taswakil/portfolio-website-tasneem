@@ -18,6 +18,7 @@ body{
   line-height: 1.6; 
     color: #683c09;
 }
+
 h1, h2, h3, h4 {
     line-height: 1.4;
     color: #81490a;
@@ -29,7 +30,7 @@ h1 {
 }
 h1 span{
     font-family: Pinyon Script;
-    font-size: 1.8em;
+    font-size: 1.2em;
     color: #81490a;
 }
 h2{
@@ -93,7 +94,7 @@ a:active {
 }
 #hero span{
     font-family:'Pinyon Script', cursive;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 #mystory{
     background-color: #814a0a14;
@@ -166,7 +167,7 @@ main{
     padding: 5px;
 }
 .myself{
-    max-width: 50%;
+    max-width: 70%;
     display: block;
     margin-right: auto;
     margin-left: auto;
