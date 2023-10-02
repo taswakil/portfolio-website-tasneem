@@ -275,3 +275,8 @@ X-large devices (1440px or larger)
     from {transform: translate(0,50px);}
     to {transform: translate(200px,50px);}
   }
+
+  .cloud-front {
+    animation: 30s cloud-move infinite alternate linear;
+  }
+
