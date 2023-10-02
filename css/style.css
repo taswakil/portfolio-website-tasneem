@@ -212,3 +212,35 @@ Medium devices (640px and larger)
     }
 
 }
+
+/* ==============================
+Large devices (1024px or larger)
+================================= */
+@media only screen and (min-width: 1024px) {
+    .col-lg-5 {
+        width: 41.66%
+    }
+
+    .col-lg-7 {
+        width: 58.33%;
+        display: inline-block;
+    }
+    #skills .col-lg-7{
+        padding-left: 172px;
+    }
+    .container {
+        max-width: 1200px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    main{
+        font-size: 18px;
+    }
+
+    .col-md-6 {
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
