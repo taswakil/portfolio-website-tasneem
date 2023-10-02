@@ -280,3 +280,7 @@ X-large devices (1440px or larger)
     animation: 30s cloud-move infinite alternate linear;
   }
 
+@keyframes cloud-move-reverse {
+    from {transform: translate(446px,48px);}
+    to {transform: translate(100px, 48px);}
+  } 
