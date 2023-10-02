@@ -57,6 +57,7 @@ img{
 }
 .logo{
     max-width: 250px;
+    padding: 0 15px;
 }
 .socials{
     max-width: 30px;
