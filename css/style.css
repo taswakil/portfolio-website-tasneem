@@ -105,6 +105,8 @@ a:active {
 #contact span{
     color: ivory;
     font-family: Montserrat;
+    max-height: 44px;
+}
 }
 
 /*Layout styling*/
