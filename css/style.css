@@ -270,3 +270,8 @@ X-large devices (1440px or larger)
   .sun {
     animation: 4s color-change infinite alternate linear;
   }
+
+  @keyframes cloud-move {
+    from {transform: translate(0,50px);}
+    to {transform: translate(200px,50px);}
+  }
