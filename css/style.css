@@ -123,11 +123,13 @@ a:active {
     padding: 10px;
     border-radius: 3px;
     border-bottom: 2px solid #641a33;
-    transition: 0.2 opacity;
+    transition-duration: 0.2s;
+    transition-property: solid #da5e88;
     margin-bottom: 10px;
 }
 .button:hover{
-    opacity: 0.8;/*reduces opacity of button to 80% */
+    /*reduces opacity of button to 80% */
+    background-color: #da5e88;
     text-decoration: none;
     color:ivory;
 }
