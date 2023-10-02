@@ -244,3 +244,9 @@ Large devices (1024px or larger)
         margin-left: auto;
     }
 }
+.berlin-illustration {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
