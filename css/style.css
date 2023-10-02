@@ -107,6 +107,8 @@ a:active {
     font-family: Montserrat;
     max-height: 44px;
 }
+#work h3{
+    margin: 0 auto 15px 0;
 }
 
 /*Layout styling*/
