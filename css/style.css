@@ -202,6 +202,7 @@ Medium devices (640px and larger)
         width: auto;
         float: right;
         margin-top: 10px;
+        margin-right: 15px;
     }
     main {
         padding-top: 99px;
