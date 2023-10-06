@@ -212,6 +212,15 @@ Medium devices (640px and larger)
         text-align: unset;
         padding: 20px 0 13px;
     }
+    .navtoggle li:last-child {
+        display: none;
+      }
+    nav > ul > li{
+    display: inline-block;
+    }
+    .navtoggle li:not(:last-child) {
+        display: inline-block;
+      }
     nav {
         width: auto;
         float: right;
