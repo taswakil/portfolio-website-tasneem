@@ -246,6 +246,16 @@ Medium devices (640px and larger)
 Large devices (1024px or larger)
 ================================= */
 @media only screen and (min-width: 1024px) {
+    header {
+        text-align: unset;
+        padding: 20px 0 13px;
+    }
+    .logo {
+        max-width: 250px;
+    }
+    .navtoggle li:last-child {
+        display: none;
+      }
     .col-lg-5 {
         width: 41.66%
     }
