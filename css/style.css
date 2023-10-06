@@ -186,8 +186,24 @@ main{
 h6{
     margin: 15px auto;
 }
-
-
+.navtoggle li:not(:last-child) {
+    display: none;
+  }
+  .navtoggle, .navtoggle.responsive {
+    position: relative;
+  }
+  .navtoggle li .icon {
+    position: absolute;
+    right: 0;
+    top: 2px;
+    font-size: 20px;
+    padding-right: 0;
+  }
+  .navtoggle.responsive li  {
+    display: block;
+    padding: 10px 0;
+    border-top: 1px dotted #F480A6 ;
+  }
 /* ==============================
 Medium devices (640px and larger)
 ================================= */
