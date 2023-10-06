@@ -234,7 +234,12 @@ Medium devices (640px and larger)
     #skills .col-lg-5{
         padding-left: 55px;
     }
-
+    .logo {
+        max-width: 250px;
+    }
+    nav > ul {
+        margin: 1em 0;
+      }
 }
 
 /* ==============================
