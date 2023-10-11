@@ -75,6 +75,7 @@ img{
     text-decoration: none;
 }
 
+
 a:hover{
     color:#F480A6;
     text-decoration: underline;
@@ -97,6 +98,9 @@ a:active {
     background-color:#814a0a14 ;
     padding: 10px;
     margin: 0;
+}
+#herointro a:hover {
+    color: #F480A6;
 }
 #hero span{
     font-family:'Pinyon Script', cursive;
