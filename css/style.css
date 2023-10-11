@@ -342,10 +342,6 @@ X-large devices (1440px or larger)
     }
       }
 
-[class*="col-"] {
-    float: left;
-    padding: 0 10px;
-}
 
 /*css animation*/
 @keyframes color-change {
