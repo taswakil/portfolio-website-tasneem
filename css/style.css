@@ -211,7 +211,7 @@ h6{
     right: 0;
     top: 2px;
     font-size: 20px;
-    padding-right: 0;
+    padding-right: 15px;
   }
   .navtoggle.responsive li  {
     display: block;
