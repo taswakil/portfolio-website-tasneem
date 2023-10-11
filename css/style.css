@@ -320,7 +320,9 @@ Large devices (1024px or larger)
         width: 50%;
         margin-right: auto;
         margin-left: auto;
-    }
+        padding:  0 40px;
+    }  
+}
 }
 .berlin-illustration {
     width: 100%;
