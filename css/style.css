@@ -193,10 +193,9 @@ main{
     padding: 5px;
 }
 .myself{
-    max-width: 70%;
+    max-width: 90%;
     display: block;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto 20px 20px auto;
 }
 h6{
     margin: 15px auto;
