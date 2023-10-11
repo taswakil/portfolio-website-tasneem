@@ -218,7 +218,24 @@ h6{
     padding: 10px 0;
     border-top: 1px dotted #F480A6 ;
   }
-/* ==============================
+  /* ==============================
+Small devices (640px and smaller)
+================================= */
+  @media only screen and (max-width: 640px) {
+ h1 {
+    font-size: 1.6em;
+ }
+ h4 {
+    font-size: 1em;
+ }
+ h5 {
+    font-size: .9em;
+ }
+ #work div {
+    padding: 0px 10px;
+}
+  }
+  /* ==============================
 Medium devices (640px and larger)
 ================================= */
 @media only screen and (min-width: 641px) {
