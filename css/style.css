@@ -108,8 +108,10 @@ a:active {
     margin: 15px;
 }
 #mystory{
-    background-color: #814a0a14;
+
     padding: 0 5px;
+    margin-bottom: 50px;
+    text-align: left;
 }
 #contact span{
     color: ivory;
