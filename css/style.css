@@ -1,16 +1,17 @@
 *{
     box-sizing: border-box;
 }
+
 header{
     background-color: #81490a;
     padding: 10px 0 4px;
-    color: F480A6;
+    color: ivory;
     position: fixed;
     width: 100%;
 
 }
 body{
-    background-color: #fbf5ef;
+    background-color: #FBF5EF;
     font-family:'Montserrat', sans-serif;
     font-size: 16px; 
   font-weight: 300; 
