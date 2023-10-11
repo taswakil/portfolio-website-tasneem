@@ -140,7 +140,7 @@ a:active {
 }
 .button:hover{
     /*reduces opacity of button to 80% */
-    background-color: #da5e88;
+    background-color: #F480A6;
     text-decoration: none;
     color:ivory;
 }
