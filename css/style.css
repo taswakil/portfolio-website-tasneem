@@ -38,8 +38,12 @@ h2{
     font-size: 2.25em;
     font-weight: 700;
 }
-h2 span{
-    font-family: Pinyon Script;
+.center h2 {
+    margin-top: 15px;
+}
+h4 span{
+    font-size: 18px;
+    font-weight: 500;
 }
 h3{ 
     color:#81490a;
