@@ -271,8 +271,16 @@ Medium devices (640px and larger)
     nav > ul {
         margin: 1em 0;
       }
-}
+    .myself img {
+        max-width: 100%;
+    }
 
+}
+    
+[class*="col-"] {
+  float: left;
+    padding: 0 62px;
+}
 /* ==============================
 Large devices (1024px or larger)
 ================================= */
