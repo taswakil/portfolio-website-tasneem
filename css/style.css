@@ -145,8 +145,8 @@ a:active {
     color:ivory;
 }
 .contact{
-    text-decoration: none;
-    color: #F480A6;
+    text-decoration: underline;
+    color: ivory;
 }
 .row{
     margin: 25px 0; /*25px top and bottom, 0 left and right*/
