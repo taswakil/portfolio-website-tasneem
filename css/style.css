@@ -308,6 +308,7 @@ Large devices (1024px or larger)
         padding-left: 172px;
     }
     .container {
+    
         max-width: 1300px;
         margin-right: auto;
         margin-left: auto;
