@@ -121,6 +121,11 @@ a:active {
 #work h3{
     margin: 0 auto 15px 0;
 }
+.smaller {
+    max-width: 80%;
+    margin: 30px auto;
+}
+
 
 
 /*Layout styling*/
@@ -198,7 +203,7 @@ main{
     margin: auto 20px 20px auto;
 }
 h6{
-    margin: 15px auto;
+    margin: 5px auto;
 }
 .navtoggle li:not(:last-child) {
     display: none;
@@ -218,6 +223,7 @@ h6{
     padding: 10px 0;
     border-top: 1px dotted #F480A6 ;
   }
+ 
   /* ==============================
 Small devices (640px and smaller)
 ================================= */
@@ -234,6 +240,19 @@ Small devices (640px and smaller)
  #work div {
     padding: 0px 10px;
 }
+
+.title {
+    max-width: 250px;
+    margin-top: 30px;
+    text-align: center;
+}
+.title2 {
+    max-width: 100px;
+}
+.para1 {
+    margin-top: 0px;
+}
+
   }
   /* ==============================
 Medium devices (640px and larger)
@@ -274,7 +293,15 @@ Medium devices (640px and larger)
     .myself img {
         max-width: 100%;
     }
-
+    .title {
+        max-width: 300px;
+    }
+    .title2 {
+        max-width: 150px ;
+    }
+    .para1 {
+        margin-top: 0px;
+    }
 }
     
 [class*="col-"] {
@@ -298,7 +325,12 @@ Large devices (1024px or larger)
     .col-lg-5 {
         width: 41.66%
     }
-
+    .col-par {
+        margin-right: 20px;
+        padding-left: 0;
+        width: 58.33%;
+        display: inline-block;
+    }
 
     .col-lg-7 {
         width: 58.33%;
@@ -324,6 +356,19 @@ Large devices (1024px or larger)
         margin-left: auto;
         padding:  0 40px;
     }  
+    .title {
+        max-width: 450px;
+        margin: 40px auto 20px;
+    }
+    .title2 {
+        max-width: 200px;
+    }
+    .para1 {
+        margin-top: 0;
+    }
+    .para2 {
+        margin-top: 28px;
+    }
 }
 .viewbutton {
     text-align: center;
