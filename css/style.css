@@ -223,6 +223,7 @@ h6{
     padding: 10px 0;
     border-top: 1px dotted #F480A6 ;
   }
+ 
   /* ==============================
 Small devices (640px and smaller)
 ================================= */
@@ -238,6 +239,15 @@ Small devices (640px and smaller)
  }
  #work div {
     padding: 0px 10px;
+}
+
+.title {
+    max-width: 250px;
+    margin-top: 30px;
+    text-align: center;
+}
+.title2 {
+    max-width: 100px;
 }
   }
   /* ==============================
