@@ -293,7 +293,15 @@ Medium devices (640px and larger)
     .myself img {
         max-width: 100%;
     }
-
+    .title {
+        max-width: 300px;
+    }
+    .title2 {
+        max-width: 150px ;
+    }
+    .para1 {
+        margin-top: 0px;
+    }
 }
     
 [class*="col-"] {
