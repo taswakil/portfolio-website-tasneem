@@ -356,6 +356,19 @@ Large devices (1024px or larger)
         margin-left: auto;
         padding:  0 40px;
     }  
+    .title {
+        max-width: 450px;
+        margin: 40px auto 20px;
+    }
+    .title2 {
+        max-width: 200px;
+    }
+    .para1 {
+        margin-top: 0;
+    }
+    .para2 {
+        margin-top: 28px;
+    }
 }
 .viewbutton {
     text-align: center;
