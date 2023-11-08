@@ -121,6 +121,11 @@ a:active {
 #work h3{
     margin: 0 auto 15px 0;
 }
+.smaller {
+    max-width: 80%;
+    margin: 30px auto;
+}
+
 
 
 /*Layout styling*/
