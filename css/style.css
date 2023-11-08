@@ -249,6 +249,10 @@ Small devices (640px and smaller)
 .title2 {
     max-width: 100px;
 }
+.para1 {
+    margin-top: 0px;
+}
+
   }
   /* ==============================
 Medium devices (640px and larger)
