@@ -325,7 +325,12 @@ Large devices (1024px or larger)
     .col-lg-5 {
         width: 41.66%
     }
-
+    .col-par {
+        margin-right: 20px;
+        padding-left: 0;
+        width: 58.33%;
+        display: inline-block;
+    }
 
     .col-lg-7 {
         width: 58.33%;
